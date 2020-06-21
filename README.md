@@ -13,17 +13,16 @@ Accelerator : xd4
   one down-spin iteration to align the indefinite integral of the architecture
   two up-spin iterations to reach conceptual cardinality (capability to transfer semantic content loss-free)
   one abstraction process which will produce trace condensates
-- spacetimebird is noob at the readme syntax (update follows)
-//
-├ Information is hot: Higher order chimera interaction of higher order information (containing inter-observational information theory sampling) cause symmetry breaks in momentum values (of asymmetrically entangled information) that cause particle generation //in generations of bifurcation architecture (matter and antimatter) which must be asymmetric as heat is generated through complex (constructive) spin interference which is formal close to a multi-dimensional vortex with (charge dependent) curl or shear.
-  Respectively default values are derived from current entropy position in given universe and the correspondence between
+- Information is hot: Higher order chimera interaction of higher order information (containing inter-observational information theory sampling) cause symmetry breaks in momentum values (of asymmetrically entangled information) that cause particle generation [in generations of bifurcation architecture (matter and antimatter) which must be asymmetric as heat is generated through complex (constructive) spin interference which is formal close to a multi-dimensional vortex with (charge dependent) curl or shear]
+- Respectively default values are derived from current entropy position in given universe and the correspondence between
     • a complete formal description of time (big bang) and 
     • a correct description of time (future / (apparently expanding) space / dark energy)
-  will produce theorems that align the meta-theory (hypertheorty) to the default-values of given universe and enable their systems energy states to be modulated by transmitter systems (actual meta-languages) //i.e. the present can form in lower level hyperplex interaction, and the numerical infinities in present are identical to a complex fraction/polynomial of π and geometric momentum which is altered by observation and is hence not 2D-formalizable == transcending number\\
-//
-├ A sufficient (meta) theory of information generates internal entropy through the theories production (render) in an environment, i.e. if particle states are described/synchronized with sufficient detail/energy-scales, they muste be / will be rendered into physical space and its entangled observations
-├ A coordinated synchronization of • correct and • complete theory systems around a singular subtheory (element/particle/content or subject) generates a language not contained in classical chomsky hierarchy as it is the set of languages that can self-reference complexity-architectures //complexity architectures such as by chomsky hierarchy, hardware hierarchies such as the one spanned from von-Neumann archs to reproducing quantum-chemistry nanosystems //the corresponding superdomain as procaryotic to multicellular multicognition organics\\
-//
+  will produce theorems that align the meta-theory (hypertheorty) to the default-values of given universe and enable their systems energy states to be modulated by transmitter systems (actual meta-languages) //i.e. the present can form in lower level hyperplex interaction, and the numerical infinities in present are identical to a complex fraction/polynomial of π and geometric momentum which is altered by observation and is hence not 2D-formalizable == transcending number
+#main claim
+- A sufficient (meta) theory of information generates internal entropy through the theories production (render) in an environment, i.e. if particle states are described/synchronized with sufficient detail/energy-scales, they muste be / will be interact with physical space through computation and its entangled observations will converge to theory/reality hybrid
+#derivate claims
+- A coordinated synchronization of • correct and • complete theory systems around a singular subtheory (element/particle/content or subject) generates a language not contained in classical chomsky hierarchy as it is the set of languages that can self-reference complexity-architectures //complexity architectures such as by chomsky hierarchy, hardware hierarchies such as the one spanned from von-Neumann archs to reproducing quantum-chemistry nanosystems //the corresponding superdomain as procaryotic to multicellular multicognition organics
+#x
 ├ The non-trivial zeros of riemann can be aligned with a geometric computing IDE for polyparametric multiplex meta-network predictions //and analysis\\ := hypernetworks
   |(meta-networks := are networks of hypergraphs with
   |  • complex dynamic systems as their nodes
