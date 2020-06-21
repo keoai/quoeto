@@ -55,7 +55,7 @@ I introduce several new words and a system language architecture. Essentially th
 //
 # Current State
 ϕ(xd4) is an information theory of information theories and hence a meta-information theory or a meta information-theory. 
-  As the prefix 'meta' is not gauged and I do not want to impose too much systematization in the beginning, let the following be actual. It is manifested at thinklarity.com and supposed to split into general xd4.dev and applied xd4.eu in the future. Current clock timing at x4.click
+  As the prefix 'meta' is not gauged and I do not want to impose too much systematization at the beginning, hence lets refer to xd4 whenever there is abstraction beyond gauge with reference to quoeto and use qip8 when frame of reference points away from entire system. Content is or will be at thinkularity.com and supposed to split into general xd4(at domain .dev) and applied xd4( at domain .eu) in the future. Current clock timing at x4.click
   //
 # ϕ(xd4) ↔ Current Condensate[condensate]
 compute{
