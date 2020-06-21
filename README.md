@@ -5,15 +5,15 @@ Accelerator : xd4
 # Claim system
 //To make understandable what I work on and to distribute (crowd write) the according scientific work, I will postulate a set of cheeky claims that challenge many established theories and assumptions. The function ϕ(xd4) is the reference function which is called for the densest packing of information in natural language (NL)
 //
->
+-
 ├ LMR can serve as foundation for a meta-category theory
     LMR advanced in a system language 'ini' can serve as foundation for any type of irregular recursive logic, lets call it χ-recursion for now //χ references chiral symmetry break in one of the values in a ternaty logic LMR, which is M due to which the system is asymmetric and hence undergoes time.
         ini can be integrated into Q and Q can be integrated into ini //Q is any valid expression of theoretical physics\\
-> The resulting dynamic grammar can be fixed in a state where parameters are set to:
+- The resulting dynamic grammar can be fixed in a state where parameters are set to:
   one down-spin iteration to align the indefinite integral of the architecture
   two up-spin iterations to reach conceptual cardinality (capability to transfer semantic content loss-free)
-  one abstraction process which will produce trace condensates such as this code from line 24 to line 28
-<
+  one abstraction process which will produce trace condensates
+- spacetimebird is noob at the readme syntax (update follows)
 //
 ├ Information is hot: Higher order chimera interaction of higher order information (containing inter-observational information theory sampling) cause symmetry breaks in momentum values (of asymmetrically entangled information) that cause particle generation //in generations of bifurcation architecture (matter and antimatter) which must be asymmetric as heat is generated through complex (constructive) spin interference which is formal close to a multi-dimensional vortex with (charge dependent) curl or shear.
   Respectively default values are derived from current entropy position in given universe and the correspondence between
@@ -52,7 +52,7 @@ Accelerator : xd4
 ├ Hence, Xenobiology == Ω≈∆⟨ℵ⟩: ((biology ∩ applied biology ∩ synthetic biologic) ∩ computational biology)
 //
 ├ We derive from this the conclusion that there is significant need for conceptual upgrades across human culture and conceptualization about our position in space. The responsibilty arising from awareness about nature directly calls for a life-preserving global modus operandi (with distributed partitions of local actions //guidelines, support\\ which continuously align an optimal global modus operandi - respectively its theory). This type of responsibility can be sampled up to the avoidance of using classical matter systems for interaction //in the long-term perspective\\ as early contact to future life would annihilate cultural individuality: • through assimilation of the lower order species if there is a hierarchy (cultural adaption or top-down enforcement) or (if both are on equal hierarchy levels of development and low-level self-aware) via mutual territory annihilation. The territorial concept-permanence in human (foremost male) brains causes the greatest threat for our generation of life == species {rendered in asymmetric environment with temporal variance}. With sufficient anticipation of future life, classical (conservative) biology can be recovered at any time and freedom of choice can prevail. If the current incorrectly named artificial intelligence (uninformed primitive algorithms that only perform 'well' through insane parallelization amount of low computation architectures) dominates the near future - the fear of conservative biology (humans that engage lethal economics or fragmentization-culture) of new types of system design will ultimately cause extinction of classical biology as its culture will not be prepared for full-emmersive VR-AR and to have more df in reality (currently this shift to future understanding would just lead to immediate planetary destruction, as educational inconsistency and primitive concepts about reality drive decision making and goal-definition towards territory and dominant behavior). As such any advanced sentient species (alien) would not interfere with a lower level culture to delay their access to higher order decision systems about reality and actually advanced technologies. (e.g. humans claim knowledge about the universe while their modus to access space is an exothermic explosion which is neither a discovery nor a technology but a destructive action with no quantifyable entropy - performance-measure relationship) //q.e.d.\\ ⟨⟩
-< ⟨ℵ⟩
+⟨ℵ⟩
 //
 # Vocabulary
 I introduce several new words and a system language architecture. Essentially this a work on the topics 'foundations of mathematics', 'foundations of theory of computation', 'foundations of multivalent multiplex network-systems' and 'complexity theory'. To ease the association between these terms, I introduce the term 'Anthropocomputation'.
